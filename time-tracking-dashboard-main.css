@@ -116,6 +116,7 @@ h3{
     font-size: 25px;
     font-weight: 300;  
     color: white;  
+<<<<<<< HEAD
     padding: 5px 0 0 20px;
 }
 h5{
@@ -166,3 +167,8 @@ p{
 
 
 
+=======
+}
+
+/* j'essaye de faire un push it avec git */
+>>>>>>> 77a1c0e505d2b8ea740fe84b91fc92bd8f35ab50
